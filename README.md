@@ -48,7 +48,7 @@ python autoilr.py -f Chinese-Simplified 孙子兵法.txt 西游记.txt 孔乙己
 
 * **Brandon Swenson** - *Initial work* - [bmswens](https://github.com/bmswens)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/bmswens/autoilr/contributors) who participated in this project.
 
 ## License
 
